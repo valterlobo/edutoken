@@ -16,7 +16,7 @@ O **EduToken** busca transformar a maneira como a educação é acessada e valor
 
 1. **Design do Token**:
    - **Nome do Token**: EduToken ($EDTK)
-   - **Símbolo do Toekn**: $EDTK
+   - **Símbolo do Token**: $EDTK
    - **Decimais do Token**: 18
    - **Padrão do Token**: BEP-20 (Binance Smart Chain)
    - **Total Supply**: 1000,000,000 $EDTK (1000000000e18)
