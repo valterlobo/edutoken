@@ -15,8 +15,8 @@ O **EduToken** busca transformar a maneira como a educação é acessada e valor
 ### Componentes do Projeto
 
 1. **Design do Token**:
-   - **Nome do Token**: EduToken (EDU)
-   - **Símbolo do Toekn**: BFN
+   - **Nome do Token**: EduToken ($EDTK)
+   - **Símbolo do Toekn**: $EDTK
    - **Decimais do Token**: 18
    - **Padrão do Token**: BEP-20 (Binance Smart Chain)
    - **Total Supply**: 100,000,000 EDU
@@ -61,9 +61,22 @@ forge build
 forge script script/EduToken.s.sol:DeployToken   --fork-url $RPC_URL  --broadcast 
 ```
 
-### 5. Obter o endereço do contrato e pesquisar na ..scan
 
-### 6. Interação com o Contrato
+### 5. Executar o script de "Mint" da token
+
+```shell
+forge script script/EduToken.s.sol:MintToken   --fork-url $RPC_URL  --broadcast 
+```
+
+
+### 6. Endereço do contrato na tesnet BSC
+
+
+Número do contrato: 0x46674914AF6e27f5B8bf4C2bAA7EcdEbE65176A4
+
+BscScan: [https://testnet.bscscan.com/token/0x46674914af6e27f5b8bf4c2baa7ecdebe65176a4]
+
+### 7. Interação com o Contrato
 
 Após a implantação, você pode interagir com o contrato usando a interface do Remix ou outras ferramentas como Web3.js ou Ethers.js. Aqui estão algumas operações que você pode realizar:
 
