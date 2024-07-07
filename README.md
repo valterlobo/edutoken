@@ -19,7 +19,7 @@ O **EduToken** busca transformar a maneira como a educação é acessada e valor
    - **Símbolo do Toekn**: $EDTK
    - **Decimais do Token**: 18
    - **Padrão do Token**: BEP-20 (Binance Smart Chain)
-   - **Total Supply**: 100,000,000 EDU
+   - **Total Supply**: 1000,000,000 $EDTK (1000000000e18)
    - **Distribuição**: A distribuição de EduTokens baseada na resolução de provas e recompensas por desempenho motiva os alunos a se dedicarem aos estudos e oferece uma maneira justa e transparente de recompensar o aprendizado. Com contratos inteligentes para registrar provas, avaliar resultados e distribuir recompensas, o sistema é robusto e resistente a fraudes, garantindo que os EduTokens sejam distribuídos de forma justa e eficiente.
 
 2. **Funcionalidades do Token**:
